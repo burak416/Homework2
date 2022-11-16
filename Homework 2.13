@@ -1,0 +1,349 @@
+19       	 <--SHAPES
+20       	 <--LINES
+id1
+2       	 <--TYPE
+214       	 <--LEFT
+62       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+START
+
+
+
+id2
+2       	 <--TYPE
+620       	 <--LEFT
+487       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+STOP
+
+
+
+id3
+2       	 <--TYPE
+1365       	 <--LEFT
+426       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+START
+
+
+
+id4
+91       	 <--TYPE
+75       	 <--LEFT
+134       	 <--TOP
+348       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+INPUT
+Sorgulamak istediðiniz sayýyý girin:
+a
+
+id5
+0       	 <--TYPE
+193       	 <--LEFT
+550       	 <--TOP
+116       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+MODULE
+a
+10
+b
+id6
+0       	 <--TYPE
+217       	 <--LEFT
+465       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+N
+1
+
+id7
+0       	 <--TYPE
+357       	 <--LEFT
+191       	 <--TOP
+100       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DIVINT
+a
+10
+a
+id8
+0       	 <--TYPE
+1003       	 <--LEFT
+547       	 <--TOP
+92       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+ADD
+N
+1
+N
+id9
+0       	 <--TYPE
+202       	 <--LEFT
+383       	 <--TOP
+100       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+Çarpým
+1
+
+id10
+0       	 <--TYPE
+664       	 <--LEFT
+548       	 <--TOP
+172       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+MULTIPLY
+Çarpým
+N
+Çarpým
+id11
+92       	 <--TYPE
+993       	 <--LEFT
+434       	 <--TOP
+112       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_EQUAL
+N
+c
+
+id12
+0       	 <--TYPE
+201       	 <--LEFT
+305       	 <--TOP
+100       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+Toplam
+0
+
+id13
+0       	 <--TYPE
+945       	 <--LEFT
+193       	 <--TOP
+212       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+ADD
+Toplam
+Çarpým
+Toplam
+id14
+92       	 <--TYPE
+618       	 <--LEFT
+182       	 <--TOP
+112       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_LESS
+a
+10
+
+id25
+0       	 <--TYPE
+470       	 <--LEFT
+549       	 <--TOP
+92       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+ADD
+b
+1
+c
+id26
+0       	 <--TYPE
+215       	 <--LEFT
+223       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+K
+a
+
+id27
+92       	 <--TYPE
+612       	 <--LEFT
+312       	 <--TOP
+120       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_EQUAL
+Toplam
+K
+
+id28
+91       	 <--TYPE
+355       	 <--LEFT
+389       	 <--TOP
+212       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+OUTPUT
+Sayiniz güçlü sayidir.
+
+
+id29
+91       	 <--TYPE
+682       	 <--LEFT
+404       	 <--TOP
+260       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+OUTPUT
+Sayiniz Güçlü sayi degildir.
+
+
+  
+---- LINES ---- from,to ----
+id1,id4
+reserved 1
+
+id9,id6
+reserved 1
+
+id6,id5
+reserved 1
+
+id12,id9
+reserved 1
+
+id7,id9
+reserved 1
+
+id11,id13
+reserved 1
+EVET
+id14,id7
+reserved 1
+HAYIR
+id5,id25
+reserved 1
+
+id25,id10
+reserved 1
+
+id13,id14
+reserved 1
+
+id4,id26
+reserved 1
+
+id26,id12
+reserved 1
+
+id14,id27
+reserved 1
+EVET
+id27,id28
+reserved 1
+EVET
+id27,id29
+reserved 1
+HAYIR
+id28,id2
+reserved 1
+
+id29,id2
+reserved 1
+
+id10,id8
+reserved 1
+
+id8,id11
+reserved 1
+
+id11,id10
+reserved 1
+HAYIR

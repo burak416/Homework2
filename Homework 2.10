@@ -1,0 +1,448 @@
+24       	 <--SHAPES
+28       	 <--LINES
+id1
+2       	 <--TYPE
+225       	 <--LEFT
+85       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+START
+
+
+
+id2
+2       	 <--TYPE
+893       	 <--LEFT
+286       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+STOP
+
+
+
+id3
+91       	 <--TYPE
+86       	 <--LEFT
+166       	 <--TOP
+348       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+INPUT
+Bir sayý girin:
+Sayi
+
+id4
+0       	 <--TYPE
+190       	 <--LEFT
+513       	 <--TOP
+140       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+MODULE
+N
+10
+a
+id5
+0       	 <--TYPE
+405       	 <--LEFT
+531       	 <--TOP
+148       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DIVINT
+N
+10
+N
+id6
+0       	 <--TYPE
+210       	 <--LEFT
+438       	 <--TOP
+100       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+Toplam
+0
+
+id7
+0       	 <--TYPE
+863       	 <--LEFT
+594       	 <--TOP
+172       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+ADD
+Toplam
+k
+Toplam
+id8
+0       	 <--TYPE
+215       	 <--LEFT
+593       	 <--TOP
+92       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+POWER
+a
+3
+k
+id9
+92       	 <--TYPE
+336       	 <--LEFT
+409       	 <--TOP
+112       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_LESS
+N
+10
+
+id10
+91       	 <--TYPE
+431       	 <--LEFT
+346       	 <--TOP
+332       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+OUTPUT
+
+P
+
+id11
+92       	 <--TYPE
+1181       	 <--LEFT
+96       	 <--TOP
+120       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_EQUAL
+Toplam
+P
+
+id13
+0       	 <--TYPE
+529       	 <--LEFT
+419       	 <--TOP
+116       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+POWER
+N
+3
+k
+id14
+0       	 <--TYPE
+774       	 <--LEFT
+419       	 <--TOP
+172       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+ADD
+Toplam
+k
+Toplam
+id16
+0       	 <--TYPE
+224       	 <--LEFT
+246       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+N
+0
+
+id17
+92       	 <--TYPE
+655       	 <--LEFT
+278       	 <--TOP
+112       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_EQUAL
+P
+Sayi
+
+id18
+0       	 <--TYPE
+189       	 <--LEFT
+307       	 <--TOP
+140       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+ADD
+N
+1
+N
+id15
+92       	 <--TYPE
+893       	 <--LEFT
+519       	 <--TOP
+112       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_GREATER_EQUAL
+N
+10
+
+id12
+0       	 <--TYPE
+225       	 <--LEFT
+370       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+P
+N
+
+id19
+92       	 <--TYPE
+511       	 <--LEFT
+97       	 <--TOP
+112       	 <--WIDTH
+50       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+IF_EQUAL
+P
+Sayi
+
+id20
+0       	 <--TYPE
+396       	 <--LEFT
+222       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+N
+P
+
+id21
+0       	 <--TYPE
+451       	 <--LEFT
+289       	 <--TOP
+70       	 <--WIDTH
+30       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+DEFINITION
+N
+P
+
+id22
+91       	 <--TYPE
+657       	 <--LEFT
+189       	 <--TOP
+540       	 <--WIDTH
+40       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+OUTPUT
+1'den girdiginiz degere kadarki tüm Armstrong sayilari bulundu.
+
+
+id23
+3       	 <--TYPE
+1236       	 <--LEFT
+537       	 <--TOP
+10       	 <--WIDTH
+10       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+INTERSECTION
+
+
+
+id24
+3       	 <--TYPE
+1152       	 <--LEFT
+361       	 <--TOP
+10       	 <--WIDTH
+10       	 <--HEIGHT
+16777215       	 <--BACKCOLOR
+0       	 <--BORDERCOLOR
+0       	 <--BORDERCOLOR
+-reserved 1-
+-reserved 2-
+INTERSECTION
+
+
+
+  
+---- LINES ---- from,to ----
+id4,id8
+reserved 1
+
+id8,id7
+reserved 1
+
+id5,id9
+reserved 1
+
+id9,id4
+reserved 1
+HAYIR
+id9,id13
+reserved 1
+EVET
+id13,id14
+reserved 1
+
+id1,id3
+reserved 1
+
+id6,id4
+reserved 1
+
+id10,id17
+reserved 1
+
+id7,id15
+reserved 1
+
+id3,id16
+reserved 1
+
+id15,id5
+reserved 1
+EVET
+id18,id12
+reserved 1
+
+id12,id6
+reserved 1
+
+id16,id18
+reserved 1
+
+id11,id19
+reserved 1
+HAYIR
+id17,id21
+reserved 1
+HAYIR
+id21,id18
+reserved 1
+
+id19,id20
+reserved 1
+HAYIR
+id20,id18
+reserved 1
+
+id19,id22
+reserved 1
+EVET
+id17,id22
+reserved 1
+EVET
+id22,id2
+reserved 1
+
+id15,id23
+reserved 1
+HAYIR
+id23,id11
+reserved 1
+
+id11,id24
+reserved 1
+EVET
+id24,id10
+reserved 1
+
+id14,id15
+reserved 1
+
